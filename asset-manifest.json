@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/business-card/static/css/main.f8c38e2f.css",
+    "main.js": "/business-card/static/js/main.66caab28.js",
+    "static/js/787.86b5e812.chunk.js": "/business-card/static/js/787.86b5e812.chunk.js",
+    "static/media/casual_pro_me.jpg": "/business-card/static/media/casual_pro_me.81f6037746e2ca51cb5d.jpg",
+    "static/media/Instagram Icon.svg": "/business-card/static/media/Instagram Icon.7d8ad7f9b33a773c27398cacfc5a97a3.svg",
+    "static/media/GitHub Icon.svg": "/business-card/static/media/GitHub Icon.23d6dfa78140e8017f08351385915806.svg",
+    "static/media/Twitter Icon.svg": "/business-card/static/media/Twitter Icon.3f40423293e1813898c7e26f729a0705.svg",
+    "static/media/LinkedIn.svg": "/business-card/static/media/LinkedIn.629bf92ee99b6aa01a5c2869b2d41378.svg",
+    "index.html": "/business-card/index.html",
+    "static/media/Mail.svg": "/business-card/static/media/Mail.341d1e767b26e2540702fb63676d4501.svg",
+    "main.f8c38e2f.css.map": "/business-card/static/css/main.f8c38e2f.css.map",
+    "main.66caab28.js.map": "/business-card/static/js/main.66caab28.js.map",
+    "787.86b5e812.chunk.js.map": "/business-card/static/js/787.86b5e812.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8c38e2f.css",
+    "static/js/main.66caab28.js"
+  ]
+}
