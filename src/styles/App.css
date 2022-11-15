@@ -1,0 +1,18 @@
+body {
+    background-color: #1C1C1C;
+    box-sizing: border-box;
+    color: white;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-section, .main-body, .socials {
+    width: 480px;
+    background-color: #23252C;
+}

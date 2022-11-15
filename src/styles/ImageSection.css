@@ -1,0 +1,12 @@
+.image-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-section img{
+    max-width: 480px;
+    height: 480px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}

@@ -1,0 +1,12 @@
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 480px;
+    min-height: 65px;
+    height: 100%;
+}
+
+.socials a {
+    padding: 0 1rem;
+}
